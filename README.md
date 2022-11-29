@@ -1,4 +1,4 @@
-# object_detection
+# CodeClause_Object_Detection_System
 
 ## Object detection project is about detecting the objects such as car and traffic signals from the images
 
