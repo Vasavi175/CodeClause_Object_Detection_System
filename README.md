@@ -1,6 +1,6 @@
 # object_detection
 
-## The object detection project is about detecting the objects such as car and traffic signals in the images
+## The object detection project is about detecting the objects such as car and traffic signals from the images
 
 # Overview 
 
@@ -10,5 +10,7 @@
 - I have trained more than 500 images through yolov5 model
 
 # Data Source
-- I have used the car detection dataset from kaggle. you can get [here](https://drive.google.com/drive/folders/1XoN0VfFaiX6GhEN3D8KVDMn45ZrGQrBd)
+- I have used the car detection dataset from kaggle. you can get [here](https://drive.google.com/drive/folders/1R1LzmhUGLrUk3ySnh1446UXTlRM0rCbZ)
 
+# Technology used
+- 
