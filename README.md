@@ -12,4 +12,3 @@
 # Data Source
 - I have used the car detection dataset from kaggle.
 
-# Technologies used
